@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "react-star-ratings": "^2.3.0"
+  }
+}
